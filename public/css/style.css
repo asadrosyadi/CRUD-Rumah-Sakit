@@ -1,0 +1,33 @@
+.background-utama {
+    height: 550px;
+    background: url('../image/utama.jpg');
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-size: 115%;
+  }
+  
+  .no-margin {
+    margin: 0;
+  }
+  
+  .center {
+    text-align: center;
+  }
+  
+  .flex {
+    display: flex;
+  }
+  
+  .kotak {
+    margin: auto 0;
+    margin-left: 100px;
+  }
+  
+  .font-besar {
+    font-size: 3.5em;
+  }
+
+  .atur-ukuran{
+    margin: 0px 200px;
+  }
+  
